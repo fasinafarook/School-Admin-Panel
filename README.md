@@ -1,3 +1,47 @@
+# School Admin Panel
+
+A modern and responsive **School Admin Dashboard** built with **React, TypeScript, TailwindCSS, and Node.js**. This panel allows administrators to manage students, classes, reports, and other school-related operations efficiently.
+
+---
+
+## 🚀 Live Demo
+
+You can access the deployed application here: [School Admin Panel](https://school-admin-panel-9mbw.vercel.app/)
+
+---
+
+---
+
+## 🏗 Tech Stack
+
+**Frontend:**  
+- React.js  
+- TypeScript  
+- TailwindCSS  
+- Vite  
+
+
+
+**Deployment:**  
+- Vercel (Frontend)  
+
+---
+
+## ⚡ Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/fasinafarook/School-Admin-Panel.git
+cd school-admin-panel
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
